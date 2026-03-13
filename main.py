@@ -1,5 +1,3 @@
-#Linear Regression (for Advanced Learners)
-Consider a csv file data.csv which contains data on 'Number of hours studied' and 'ExamScore'. Using this csv file, we will build a simple finear regression model. Add the following code in main.py file on Github:
 import streamlit as st
 Import pandas as pd
 from sklearn.model selection import train test split
